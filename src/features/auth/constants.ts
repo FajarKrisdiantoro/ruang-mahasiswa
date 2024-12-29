@@ -1,0 +1,1 @@
+export const AUTH_COOKIE = "ruang-mahasiswa-mahasiswa-rooom-session"
