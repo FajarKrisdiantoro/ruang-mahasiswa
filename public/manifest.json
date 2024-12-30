@@ -1,0 +1,26 @@
+{
+    "name": "ruang-mahasiswa",
+    "short_name": "ruangmahasiswa",
+    "theme_color": "#00ff00",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "orientation": "any",
+    "start_url": "/",
+    "icons": [
+      {
+        "src": "icons/icons-192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "icons/icons-256.png",
+        "type": "image/png",
+        "sizes": "256x256"
+      },
+      {
+        "src": "icons/icons-512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ]
+  }
